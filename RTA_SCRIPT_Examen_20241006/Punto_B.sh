@@ -6,23 +6,36 @@ e
 1
 
 
+n 
 
-# Inicializar el contador
-let contador=1
++1G
+n
 
-# Establecer la condición del bucle
-while [ $contador -le 10 ]; do
-    echo "particion logica número $contador"
-    n
-    l
++1G
+n
 
-    +1G
-    # Incrementar el contador
-     ((contador++))
-     
-done
++1G
+n
+
++1G
+n
+
++1G
+n
+
++1G
+n
+
++1G
+n
+
++1G
+n
+
++1G
+n
+
 
 p
 w
-echo "Bucle terminado. particiones logicas: $contador"
-
+EOF
