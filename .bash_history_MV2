@@ -1,0 +1,417 @@
+ll
+tree
+cd compartida/
+ll
+cd
+pwd
+cd compartida/
+cp shh-backup.tgz /home/vagrant
+cp .bash_history /home/vagrant
+cp
+ls -la
+cd
+ls -la
+tar xvzf ssh-backup.tgz
+tar xvzf shh-backup.tgz
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+ls -la
+rm -rf UTNFRA_SO_1P2C_2024_MatiasRedruello
+ls -la
+cat .bash_history
+ls la
+ls -la
+mkdir repogit
+cd repogit/
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+ls -la
+ls -la UTNFRA_SO_1P2C_2024_MatiasRedruello
+ls -la RTA_SCRIPT_Examen_20241006
+cat RTA_SCRIPT_Examen_20241006
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd RTA_SCRIPT_Examen_20241006
+ls -la
+cat Punto_A.sh
+cd ./
+cd ../
+ls -la
+ls -la UTNFRA_SO_1P2C_2024_MatiasRedruello
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+cd
+ls -la
+cat .bash_history
+re -fr .bash_history
+re -rf .bash_history
+rm -rf .bash_history
+ls -la
+cd repogit/
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+source  ~/.bashrc  && history -a
+ls -la
+cd
+ls -la
+cat .bash_history
+cd compartida/
+ll
+mv .bash_history .bash_historyMV0
+ll
+mv .bash_historyMV0 .bash_history_MV0
+ll
+chmode 500 .bash_history_MV0
+chmod 500 .bash_history_MV0
+ll
+chmod 300 .bash_history_MV0
+ll
+chmod 000 .bash_history_MV0
+ll
+rm -fr .bash_history_MV0
+sudo rm -fr .bash_history_MV0
+rm -rf .bash_history_MV0
+sudo rm -rf .bash_history_MV0
+man remove
+man rm
+sudo rm -fr .bash_history_MV0
+ll
+chmod 777 .bash_history_MV0
+sudo rm -fr .bash_history_MV0
+ll
+cd
+ll
+cat .bash_history
+tree
+sudo apt install tree
+sudo apt update && sudo apt install -y tree
+tree /home/vagrant
+ll
+cd repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/
+l
+ls -la
+tree UTNFRA_SO_1P2C_2024_MatiasRedruello
+tree UTNFRA_SO_1P2C_2024_MatiasRedruello/
+tree /UTNFRA_SO_1P2C_2024_MatiasRedruello/
+tree /UTNFRA_SO_1P2C_2024_MatiasRedruello
+tree /repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+tree
+man tree
+man mkdir
+mkdir -p /Examenes-UTN/{alumno,profesores}
+sudo mkdir -p /Examenes-UTN/{alumno,profesores}
+ll
+ll /
+sudo tree  Examenes-UTN/
+sudo tree  /Examenes-UTN
+sudo rm -fr  Examenes-UTN/
+ll /
+sudo rm -fr  Examenes-UTN/
+sudo rm -fr  /
+sudo tree  /Examenes-UTN
+sudo rm -fr  /Examenes-UTN
+ls -la /
+ll /
+sudo mkdir -p /Examenes-UTN/{alumno_{1..3}/{parcial_{1..3}},profesores}
+ls -la /
+sudo tree /Examenes-UTN
+ll /
+rm -fr /Examenes-UTN
+sudo rm -fr /Examenes-UTN
+ll /
+sudo mkdir -p /Examenes-UTN/{alumno_{1..3}/parcial_{1..3},profesores}
+ls /
+sudo tree /Examenes-UTN
+sudo rm -fr /Examenes-UTN
+ll /
+cd /repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd /repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+tree
+vim  Punto_A.sh
+cat  Punto_A.sh
+git status
+git add .
+git commit -m "ADD:actualizacion punto A"
+git config --global user.name Matias Redruello
+git status
+git push
+git status
+git push
+git commit -m "ADD:actualizacion punto A"
+git status
+git push
+tree
+cd
+ll
+cd repogit/
+ll
+cp .bash_history UTNFRA_SO_1P2C_2024_MatiasRedruello
+pwd
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello
+pwd
+cp .bash_history /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+cp bash_history /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+man cp
+cd
+cp .bash_history /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+ls -la /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+man rename
+man name
+cd repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/
+ll
+mv .bash_history .bash_history_MV1
+ll
+git status
+git add .
+git commit -m "ADD: bash_hostory"
+git status
+git push
+cd
+ll /
+ll UTNFRA_SO_1P2C_2024_MatiasRedruello
+ls -la /UTNFRA_SO_1P2C_2024_MatiasRedruello/
+sudo ls -la /UTNFRA_SO_1P2C_2024_MatiasRedruello/
+sudo ls -la /UTNFRA_SO_1P2C_2024_MatiasRedruello
+sudo ls -la repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+tree RTA_SCRIPT_Examen_20241006
+sudo ls -la repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_SCRIPT_Examen_20241006/
+bash Punto_A.sh
+cd  repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_SCRIPT_Examen_20241006/
+bash Punto_A.sh
+ll /
+vim Punto_A.sh
+git status
+git add .
+git commit -m "fix: correccion punto a"
+git push
+~git status
+bash Punto_a.sh
+bash Punto_A.sh
+ll /
+sudo tree /Examenes-UTN
+vim Punto_A.sh
+ll
+man fdisk
+sudo fdisk -l
+sudo fdisk /dev/sdc
+sudo fdisk -l
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo /dev/sdc1 -l
+sudo fdisk /dev/sdc1 -l
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc1
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc1 -l
+sudo fdisk /dev/sdc1 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc1 
+sudo fdisk /dev/sdc
+sudo fdisk /dev/sdc1
+sudo fdisk /dev/sdc
+sudo fdisk /dev/sdc1
+sudo fdisk /dev/sdc
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+tree
+touch touch Punto_B_2.sh
+tree
+touch touch Punto_B_3.sh
+tree
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+cat Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+vim Punto_B.sh
+git status
+git add .
+git commit -m "docs:automatizacion punto B"
+gist status
+gitstatus
+git status
+git push
+bash Punto_B.sh
+sudo fdisk
+history
+sudo fdisk /dev/sdc
+sudo fdisk /dev/sdc -l
+vim Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+bash Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+git status
+git add .
+git commit -m "fix:correcion punto b"
+git push
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+vim Punto_B.sh
+tree
+rm -fr Punto_B_2.sh
+tree
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+cat Punto_B.sh
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+n
+nn
+sudo fdisk /dev/sdc 
+vim Punto_B.sh
+bash Punto_B.sh
+sudo fdisk /dev/sdc 
+cat Punto_B.sh 
+bash Punto_B.sh 
+vim Punto_B.sh 
+sudo fdisk /dev/sdc 
+bash Punto_B.sh 
+sudo mkfs.ext4 /dev/sdc1
+sudo fdisk /dev/sdc -l
+sudo mkfs -t ext4 /dev/sdc1
+sudo fdisk /dev/sdc 
+sudo mkfs.ext4 /dev/sdc1
+sudo fdisk /dev/sdc 
+sudo mkfs.ext4 /dev/sdc1
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+sudo mkfs.ext4 /dev/sdc1
+sudo fdisk /dev/sdc 
+sudo mkfs.ext4 /dev/sdc5
+sudo fdisk /dev/sdc
+vim Punto_B.sh
+bash Punto_B.sh
+vim Punto_B.sh
+sudo fdisk /dev/sdc
+bash Punto_B.sh
+vim Punto_B.sh
+sudo fdisk /ven/sdc
+sudo fdisk /dev/sdc
+bash Punto_B.sh
+cd
+git status
+ls -la
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello
+cd tree RTA_SCRIPT_Examen_20241006
+tree RTA_ARCHIVOS_Examen_20241006
+git status
+sudo tree /
+sudo ls -la /
+fdisk /var/sdc
+p
+fdisk /dev/sdc -l
+sudo fdisk /dev/sdc -l
+sudo fdisk /dev/sdc 
+cd
+ls -la
+man cp
+cd repogit/
+cp .bash_history repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd
