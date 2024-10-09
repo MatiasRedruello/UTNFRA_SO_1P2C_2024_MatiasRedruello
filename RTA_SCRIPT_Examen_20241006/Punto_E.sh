@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#Crear el directorio
+mkdir -p /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008
 
 #Creo archivo
 touch /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
