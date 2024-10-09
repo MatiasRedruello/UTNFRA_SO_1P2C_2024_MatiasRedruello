@@ -1,0 +1,151 @@
+ll
+cd compartida/
+ll
+cd
+cp shh-backup.tgz
+man cp
+cd compartida/
+cp shh-backup.tgz /home/vagrant
+ll /home/vagrant
+tar xvzf shh-backup.tgz
+cd
+mkdir repogit
+ll
+cd repogit/
+git clone
+cd
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+ll
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+cd
+ll
+ll -la .ssh/
+tar xvzf shh-backup.tgz
+ll -la .ssh/
+cd repogit/
+ll
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+ll
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+ll
+tree
+cd
+sudo apt update && sudo apt install tree
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+ll
+/UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+cd repogit/
+/UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+ll
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc  && history -a
+sudo  ~/.bashrc  && history -a
+source  ~/.bashrc  && history -a
+ls -la home/vagrant
+ls -la /home/vagrant
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+tree
+rm -fr RTA_SCRIPT_Examen_20241008
+tree
+ll -la
+cat Punto_B_3.sh
+cat Punto_A.sh
+cd RTA_SCRIPT_Examen_20241006
+cat Punto_A.sh
+cat Punto_B.sh
+cat Punto_B_3.sh
+rm -fr Punto_B_3.sh
+tree
+cd ../
+tree
+cat Punto_A.sh
+cd RTA_SCRIPT_Examen_20241006
+../
+vim Punto_B_3.sh
+cat Punto_B_3.sh
+tree
+rm -fr Punto_B_3.sh
+tree
+cd ../
+cat Punto_B_3.sh
+vim Punto_B_3.sh
+cd RTA_SCRIPT_Examen_20241006/
+ll
+vim Punto_B.sh 
+cat Punto_B.sh
+cat Punto_A.sh
+cd ../
+ll
+rm -fr Punto_A.sh
+rm -fr Punto_B_3.sh
+ll
+tree
+cat touch
+ls -la
+cd RTA_SCRIPT_Examen_20241006
+ls .la
+ls -la
+vim touch
+rm -fr touch
+ll
+cd ../
+ll
+tree
+cat /RTA_SCRIPT_Examen_20241006/Punto_A.sh
+cat RTA_SCRIPT_Examen_20241006/Punto_A.sh
+cat RTA_SCRIPT_Examen_20241006/Punto_B.sh
+git status
+git add .
+git commit -m "fix:punto b completo y unificado"
+git status
+git push
+git status
+git commit -m "fix:punto b completo y unificado"
+git config --global user.name "Matias Redruello"
+git commit -m "fix:punto b completo y unificado"
+git status
+git push
+git status
+ls -la
+man useradd 
+sudo grep vagr /etc/shadow | awk -F ':' '{print $2}'
+man useradd 
+man awk
+sudo grep vagr /etc/shadow
+sudo grep vagr /etc/shadow | awk -F ':'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $2}'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $1}'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $3}'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $4}'
+sudo grep vagr /etc/shadow 
+man chown
+tree
+vim Punto_C.sh
+ll
+rm -fr Punto_C.sh
+ll
+vim /RTA_SCRIPT_Examen_20241006/ Punto_C.sh
+ll
+tree
+vim /RTA_SCRIPT_Examen_20241006/Punto_C.sh
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd RTA_SCRIPT_Examen_20241006
+tree
+vim Punto_C.sh
+cat Punto_C.sh
+cd ../
+git status
+git add .
+git commit -m "ADD: se gregoel punto C"
+git push
+cd
+ll
+cp .bash_history compartida/
+cd compartida/
+rm -fr .bash_history 
+ll
+cd
+cp .bash_history /repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
