@@ -1,0 +1,408 @@
+ll
+cd compartida/
+ll
+cd
+cp shh-backup.tgz
+man cp
+cd compartida/
+cp shh-backup.tgz /home/vagrant
+ll /home/vagrant
+tar xvzf shh-backup.tgz
+cd
+mkdir repogit
+ll
+cd repogit/
+git clone
+cd
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+ll
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+cd
+ll
+ll -la .ssh/
+tar xvzf shh-backup.tgz
+ll -la .ssh/
+cd repogit/
+ll
+git clone git@github.com:MatiasRedruello/UTNFRA_SO_1P2C_2024_MatiasRedruello.git
+ll
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+ll
+tree
+cd
+sudo apt update && sudo apt install tree
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+ll
+/UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+cd repogit/
+/UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+ll
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc  && history -a
+sudo  ~/.bashrc  && history -a
+source  ~/.bashrc  && history -a
+ls -la home/vagrant
+ls -la /home/vagrant
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+tree
+rm -fr RTA_SCRIPT_Examen_20241008
+tree
+ll -la
+cat Punto_B_3.sh
+cat Punto_A.sh
+cd RTA_SCRIPT_Examen_20241006
+cat Punto_A.sh
+cat Punto_B.sh
+cat Punto_B_3.sh
+rm -fr Punto_B_3.sh
+tree
+cd ../
+tree
+cat Punto_A.sh
+cd RTA_SCRIPT_Examen_20241006
+../
+vim Punto_B_3.sh
+cat Punto_B_3.sh
+tree
+rm -fr Punto_B_3.sh
+tree
+cd ../
+cat Punto_B_3.sh
+vim Punto_B_3.sh
+cd RTA_SCRIPT_Examen_20241006/
+ll
+vim Punto_B.sh 
+cat Punto_B.sh
+cat Punto_A.sh
+cd ../
+ll
+rm -fr Punto_A.sh
+rm -fr Punto_B_3.sh
+ll
+tree
+cat touch
+ls -la
+cd RTA_SCRIPT_Examen_20241006
+ls .la
+ls -la
+vim touch
+rm -fr touch
+ll
+cd ../
+ll
+tree
+cat /RTA_SCRIPT_Examen_20241006/Punto_A.sh
+cat RTA_SCRIPT_Examen_20241006/Punto_A.sh
+cat RTA_SCRIPT_Examen_20241006/Punto_B.sh
+git status
+git add .
+git commit -m "fix:punto b completo y unificado"
+git status
+git push
+git status
+git commit -m "fix:punto b completo y unificado"
+git config --global user.name "Matias Redruello"
+git commit -m "fix:punto b completo y unificado"
+git status
+git push
+git status
+ls -la
+man useradd 
+sudo grep vagr /etc/shadow | awk -F ':' '{print $2}'
+man useradd 
+man awk
+sudo grep vagr /etc/shadow
+sudo grep vagr /etc/shadow | awk -F ':'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $2}'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $1}'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $3}'
+sudo grep vagr /etc/shadow | awk -F ':' '{print $4}'
+sudo grep vagr /etc/shadow 
+man chown
+tree
+vim Punto_C.sh
+ll
+rm -fr Punto_C.sh
+ll
+vim /RTA_SCRIPT_Examen_20241006/ Punto_C.sh
+ll
+tree
+vim /RTA_SCRIPT_Examen_20241006/Punto_C.sh
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd RTA_SCRIPT_Examen_20241006
+tree
+vim Punto_C.sh
+cat Punto_C.sh
+cd ../
+git status
+git add .
+git commit -m "ADD: se gregoel punto C"
+git push
+cd
+ll
+cp .bash_history compartida/
+cd compartida/
+rm -fr .bash_history 
+ll
+cd
+cp .bash_history /repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+cp .bash_history repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+cd repogit/
+cd repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello
+ll
+cv .bash_history .bash_history_MV3
+mv .bash_history .bash_history_MV3
+ll
+git status
+git add .
+git commit -m "ADD: backup history_MV3"
+git status
+git push
+cd RTA_SCRIPT_Examen_20241006
+tree
+bash Punto_A.sh
+bash Punto_B.sh
+bash Punto_C.sh
+vim Punto_C.sh
+bash Punto_C.sh
+sudo tree /Examenes-UTN
+grep p1c2_2024_A1 /etc/passwd
+grep -i p1c2_2024_gAlumno /etc/group
+ls-la /Examenes-UTN/alumno_1
+sudo ls -la /Examenes-UTN/alumno_1
+sudo ls -la /Examenes-UTN
+cd ../
+tree
+sudo -su -c "whoami > /Examenes-UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+sudo -u p1c2_2024_A1 bash -c 'whoami > /Examenes-UTN/alumno_1/validar.txt'
+tree
+cd RTA_SCRIPT_Examen_20241006
+ls -la
+cd ../
+ls -la
+sudo ls -la Examenes-UTN/alumno_1
+sudo ls -la /Examenes-UTN/alumno_1
+cd
+cd /
+ll
+cd Examenes-UTN
+ll
+cd alumno_1.
+cd /alumno_1
+cd alumno_1/
+sudo cd alumno_1/
+sudo -su -c "whoami > /Examenes-UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+sudo -su p1c2_2024_A1 -c "whoami > /Examenes-UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+sudo -su p1c2_2024_A1 -c "whoami > /Examenes-UTN/alumnos_1/validar1.txt" 
+sudo -su p1c2_2024_A1 bash -c 'whoami > /Examenes-UTN/alumno_1/validar_A1.txt'
+sudo -su p1c2_2024_A2 bash -c 'whoami > /Examenes-UTN/alumno_2/validar_A2.txt'
+sudo -su p1c2_2024_A3 bash -c 'whoami > /Examenes-UTN/alumno_3/validar_A3.txt'
+sudo -su p1c2_2024_P1 bash -c 'whoami > /Examenes-UTN/profesores/validar_P1.txt'
+ll -la
+sudo ls -la /Examenes-UTN/alumno_1/
+sudo cat validar_A1.txt
+cat /Examenes-UTN/alumno_1/validar_A1.txt
+sudo cat /Examenes-UTN/alumno_1/validar_A1.txt
+sudo cat /Examenes-UTN/alumno_2/validar_A2.txt
+sudo cat /Examenes-UTN/alumno_3/validar_A3.txt
+sudo cat /Examenes-UTN/profesores/validar_P1.txt
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd RTA_SCRIPT_Examen_20241006/
+ll
+vim Punto_C.sh
+cd ../
+git status
+git add .
+git commit -m "fix:Correcion punto C"
+git push
+ll
+tree
+vim /RTA_SCRIPT_Examen_20241006/Punto_D.sh
+cd /RTA_SCRIPT_Examen_20241006
+cd RTA_SCRIPT_Examen_20241006/
+ll
+vim Punto_D.sh
+cat Punto_D.sh
+cd ../
+git status
+git add .
+git commit -m "ADD: Se agrego punto D"
+git push
+bash Punto_D.sh
+cat Punto_D.sh
+cd RTA_SCRIPT_Examen_20241006
+cat Punto_D.sh
+bash Punto_D.sh
+sudo bash Punto_D.sh
+vim Punto_D.sh
+cd ../
+ll
+git status
+git add .
+git commit -m "fix: Arreglo pundo D"
+git push
+sudo tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd
+sudo tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+ll
+ls -la
+cat Punto_D.sh
+cat Punto_a.sh
+cat Punto_A.sh
+vem Punto_A.sh
+vim Punto_A.sh
+cd /
+ll
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd Estructura_asimetrica/
+ll
+tree
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+tree --noreport | pr -T -s' ' -w 80 --column 4
+cd
+cd home/vagrant/repogit
+cd home/vagrant
+cd home/vagrant/
+cd /home/vagrant/
+cd /home/vagrant
+pwd
+cd /home/vagrant/repogit
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd RTA_SCRIPT_Examen_20241006/
+ll
+vim Punto_D.sh 
+sudo tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo tree --noreport | pr -T -s' ' -w 80 --column 4
+vim Punto_D.sh 
+grep MemTotal /proc/meminfo
+sudo dmidecode -t chassis | grep Manufacturer
+ll
+cd ../
+ll
+man touch
+touch Filtro_basico.txt RTA_ARCHIVOS_Examen_20241008/
+cd RTA_ARCHIVOS_Examen_20241008/
+ll
+cd ../
+ll
+rm -fr Filtro_basico.txt
+touch ~/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+cd repogit/
+cd UTNF
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+touch ~/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+sudo touch ~/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+touch UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+sudo touch UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+ll
+touch ~/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+echo "" > /home/vagrant/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+touch Filtro_Basico.txt  ~/RTA_ARCHIVOS_Examen_20241008
+cat Filtro_Basico.txt  ~/RTA_ARCHIVOS_Examen_20241008
+ls -la Filtro_Basico.txt  ~/RTA_ARCHIVOS_Examen_20241008
+cd ~/RTA_ARCHIVOS_Examen_20241008
+cd RTA_ARCHIVOS_Examen_20241008/
+ll
+ls -la
+cd ../
+ls -la Filtro_Basico.txt  ~/RTA_ARCHIVOS_Examen_20241008
+ls -la ~/RTA_ARCHIVOS_Examen_20241008
+ll
+rm -fr Filtro_Basico.txt
+cd RTA_SCRIPT_Examen_20241006
+l
+cd ~/RTA_ARCHIVOS_Examen_20241008
+cd ~/RTA_ARCHIVOS_Examen_20241008/
+cd RTA_ARCHIVOS_Examen_20241008/
+ll
+#touch /ruta/al/repositorio/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+cd ../
+pwd
+touch /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+ll
+cat /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+ls -la /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+ll
+cd RTA_ARCHIVOS_Examen_20241008
+ll
+cat Filtro_Basico.txt 
+grep MemTotal /proc/meminfo >> /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+cat Filtro_Basico.txt 
+sudo dmidecode -t chassis | grep Manufacturer >> /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_MatiasRedruello/RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt
+cat Filtro_Basico.txt 
+rm -fr Filtro_Basico.txt 
+ll
+cd ../
+cd RTA_SCRIPT_Examen_20241006/
+ll
+vim Punto_E.sh 
+cat Punto_E.sh 
+vim Punto_E.sh 
+cat Punto_E.sh 
+bash Punto_E.sh 
+cd ../
+git status
+cd RTA_SCRIPT_Examen_20241006
+cat Punto_A
+cat Punto_A.sh 
+vim Punto_A.sh 
+cat Punto_D.sh 
+cd ../
+git status
+cd RTA_ARCHIVOS_Examen_20241008
+ll
+rm -fr Filtro_Basico.txt
+ll
+../
+cd ../
+git status
+git add .
+git commit -m "ADD: Se agrago punto E"
+git push
+man echo
+sudo grep vagr /etc/shadow 
+whoami
+pwd
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_MatiasRedruello/
+cd RTA_S
+ll
+cd RTA_SCRIPT_Examen_20241006/
+ll
+vim Punto_F.sh 
+cat Punto_F.sh 
+bash Punto_F.sh 
+cd ../
+cd RTA_ARCHIVOS_Examen_20241008
+ll
+ls -la
+cd ../
+cd RTA_SCRIPT_Examen_20241006
+ll
+vim Punto_F.sh 
+cat Punto_F.sh 
+bash Punto_F.sh 
+cd ../
+ll
+cd RTA_ARCHIVOS_Examen_20241008
+ll
+mr -fr Filtro_Avanzado.txt
+rm -fr Filtro_Avanzado.txt
+cd ../
+cd RTA_SCRIPT_Examen_20241006
+vim Punto_F.sh 
+bash Punto_F.sh 
+cd ../
+cd RTA_ARCHIVOS_Examen_20241008
+ll
+rm -fr Filtro_Avanzado.txt
+ll
+cd
+ll
